@@ -19,7 +19,7 @@
   "homepage": "https://github.com/EthanP94/The-Social#readme",
   "dependencies": {
     "express": "^4.18.0",
-    "momment": "^0.0.1",
+    "moment": "^2.29.3",
     "mongoose": "^6.3.1"
   }
 }
